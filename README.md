@@ -1,4 +1,4 @@
-# h8p0-finalproject Simple Quiz
+# h8p0-finalproject: Simple Quiz
 
 ### Quiz Demo: 
 https://edycakra.github.io/projectquiz.html
